@@ -1,0 +1,20 @@
+# Environment variables & API keys (CRITICAL FOR SECURITY)
+.env
+.env.local
+
+# Python cache files & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+venv/
+.venv/
+env/
+ENV/
+
+# IDE and System files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
