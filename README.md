@@ -83,6 +83,7 @@ TelgramBot basic Antigravity/
 
 
 ### 🧠 What I Learned
+* **AI Collaboration with Antigravity:** Partnered with Antigravity AI to build features faster, fix bugs quickly, and organize clear project documentation.
 
 * **Generative AI Integration:** Integrated the OpenAI API so the chatbot can generate an AI reply directly to the user.
 * **Processing Incoming Messages & Session State:** Learned how to capture user input and conversation context in real time, process it, and return an instant reply to the user's screen.
