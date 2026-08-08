@@ -28,7 +28,7 @@ async def generate_prompt_response(topic: str, tone: str) -> str:
                 {"role": "user", "content": user_prompt}
             ],
             max_tokens=300,
-            temperature=0.7,
+            temperature=0.5,
         )
         return response.choices[0].message.content.strip()
     except Exception as e:
