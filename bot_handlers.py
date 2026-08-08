@@ -67,7 +67,7 @@ async def cancel(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
 async def reset(update:Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     context.user_data.clear()
     await update.message.reply_text(
-        "session reset clean!"
+        "reset done!"
     )
     return ConversationHandler.END
 
