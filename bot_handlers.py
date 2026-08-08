@@ -17,7 +17,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE) -> int:
     context.user_data.clear()
 
     await update.message.reply_text(
-        "👋 Welcome to the Prompt Generator Bot!\n\n"
+        "🚀 Welcome aboard! Let's generate a post together.\n\n"
         "Let's create a custom post together.\n"
         "**Step 1/2**: What topic would you like to write about?"
     )
