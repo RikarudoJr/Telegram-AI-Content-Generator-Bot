@@ -53,8 +53,8 @@ TelgramBot basic Antigravity/
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/RikarudoJr/telegram-ai-prompt-bot.git
-   cd telegram-ai-prompt-bot
+   git clone https://github.com/RikarudoJr/Telegram-AI-Content-Generator-Bot.git
+   cd Telegram-AI-Content-Generator-Bot
    ```
 
 2. **Install Dependencies**
